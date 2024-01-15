@@ -1,4 +1,4 @@
-# tokyo-olympic-azure-data-engineering-project
+# Tokyo-Olympic-Data-Azure
 
 ## Details
 
