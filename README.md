@@ -7,4 +7,4 @@ This repository gives the description of azure data engineering projects and its
 
 ## 2. Pizza-Sales-Analysis
 ## URL: 
-![logo]()
+![logo](https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Pizza_Sales_Analysis_Azure-dataengineering-project/Pizza%20Sales%20Analysis.png)
