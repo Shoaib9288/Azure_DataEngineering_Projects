@@ -10,6 +10,6 @@ This repository gives the description of azure data engineering projects and its
 ![logo](https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Pizza_Sales_Analysis_Azure-dataengineering-project/Pizza%20Sales%20Analysis.png)
 
 ## 3. Football_Data_Analytics
-### URL:https://rb.gy/tpxr8o
+### URL: https://rb.gy/tpxr8o
 ![logo](https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Football_Data_Analysis-Azure-End2End_Project/Football%20Data%20Analytics.jpg)
 
