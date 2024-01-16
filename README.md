@@ -1,5 +1,5 @@
 # Azure_DataEngineering_Projects
-<img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Resources/Microsoft_Azure.gif">
+<img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Microsoft_Azure.gif">
 
 - This repository describes Azure data engineering projects and their key components
 
