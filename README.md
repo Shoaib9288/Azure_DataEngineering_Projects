@@ -1,7 +1,7 @@
 # Azure_DataEngineering_Projects
-![logo](https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Resources/Microsoft%20Azure.gif)
+![logo](https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Resources/Microsoft_Azure.gif)
 
-- This repository describes azure data engineering projects and their key components
+- This repository describes Azure data engineering projects and their key components
 
 ## 1. Tokyo_Olympics_Data
 ### ➤URL: https://rb.gy/rndes1
