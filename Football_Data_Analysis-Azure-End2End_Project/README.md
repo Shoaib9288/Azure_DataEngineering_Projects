@@ -1,5 +1,5 @@
 # Stock Market Analysis End-to-End Project
-<img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/stock-market-kafka-data-engineering-project/Stock%20Market%20Analysis.JPG">
+<img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Football_Data_Analysis-Azure-End2End_Project/Football%20Data%20Analytics.jpg">
 
 ## Introduction
 In this project, you will execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
