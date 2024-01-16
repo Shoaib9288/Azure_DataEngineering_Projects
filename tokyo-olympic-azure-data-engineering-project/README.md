@@ -4,5 +4,5 @@
 ## Introduction
 
 ## Architecture
-![logo](https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/Architecture.JPG)
+<img align="center" width="900" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/Architecture.JPG">
 
