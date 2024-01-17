@@ -1,5 +1,5 @@
 # Football Data Analytics| Azure End-To-End Data Engineering Project
-<img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Images_GIF/Football%20Data%20Analytics.jpg
+<img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Images_GIF/Football%20Data%20Analytics.jpg">
 
 ## Introduction
 In this project, you will execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
