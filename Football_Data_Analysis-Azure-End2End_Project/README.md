@@ -1,4 +1,4 @@
-# Stock Market Analysis End-to-End Project
+# Football Data Analytics| Azure End-To-End Data Engineering Project
 <img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/Football_Data_Analysis-Azure-End2End_Project/Football%20Data%20Analytics.jpg">
 
 ## Introduction
