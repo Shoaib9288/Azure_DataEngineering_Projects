@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Architecture](#architecture)
-- [Technologies Used](#technologies-used)
+- [Dataset Used](#DatasetUsed)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 - [Data Ingestion](#data-ingestion)
@@ -17,7 +17,7 @@ This project provides a data engineering and anlytical journey on the Tokyo Olym
 ## Architecture
 <img align="center" width="900" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/Architecture.JPG">
 
-# Dataset Used
+## Dataset Used
 This contains the details of over 11,000 athletes, with 47 disciplines, along with 743 Teams taking part in the 2021(2020) Tokyo Olympics. This dataset contains the details of the Athletes, Coaches, Teams participating as well as the Entries by gender. It contains their names, countries represented, discipline, gender of competitors, name of the coaches.
 
 Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
