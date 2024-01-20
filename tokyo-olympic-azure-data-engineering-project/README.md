@@ -9,7 +9,7 @@
   - [Prerequisites](#prerequisites)
 - [Data Ingestion](#data-ingestion)
 - [Data Processing](#data-processing)
-- [Conclusion](#conclusion)
+- 
 - 
 ## Introduction
 This project provides a data engineering and anlytical journey on the Tokyo Olympic dataset. Starting with a CSV on GitHub, the data is ingested into the Azure ecosystem via Azure Data Factory. It's initially stored in Azure Data Lake Storage Gen2, then transformed in Azure Databricks. The enriched data, once again housed in ADLS Gen2, undergoes advanced analytics in Azure Synapse. The insights are finally visualized in Azure Synapse or Power BI, offering a comprehensive view of the dataset.
@@ -31,12 +31,12 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 
 ## Prerequisites
 
-Azure subscription
-Azure Databricks workspace
-Azure Data Factory instance
+- Azure subscription
+- Azure Databricks workspace
+- Azure Data Factory instance
 
 ## Data Ingestion
 
-## Data Processing
+## Data Transformation
 
 
