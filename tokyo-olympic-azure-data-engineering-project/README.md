@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Architecture](#architecture)
 - [Dataset Used](#Dataset-Used)
-- [Getting Started](#getting-started)
+- [Azure Services Used](#Azure-Services-Used)
   - [Prerequisites](#prerequisites)
 - [Data Ingestion](#data-ingestion)
 - [Data Processing](#data-processing)
@@ -23,8 +23,20 @@ This contains the details of over 11,000 athletes, with 47 disciplines, along wi
 Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
 ## Azure Services Used
-1.ure Data Factory: For data ingestion from GitHub.
-2. Azure Data Lake Storage Gen2: As the primary data storage solution.
-3. Azure Databricks: For data transformation tasks.
-4. Azure Synapse Analytics: To perform in-depth data analytics.
+
+1. **Azure Data Factory**: For data ingestion from GitHub.
+2. **Azure Data Lake Storage Gen2**: As the primary data storage solution.
+3. **Azure Databricks**: For data transformation tasks.
+4. **Azure Synapse Analytics**: To perform in-depth data analytics.
+
+## Prerequisites
+
+Azure subscription
+Azure Databricks workspace
+Azure Data Factory instance
+
+## Data Ingestion
+
+## Data Processing
+
 
