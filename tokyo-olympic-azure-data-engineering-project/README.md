@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Architecture](#architecture)
-- [Dataset Used](#DatasetUsed)
+- [Dataset Used](#Dataset-Used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 - [Data Ingestion](#data-ingestion)
