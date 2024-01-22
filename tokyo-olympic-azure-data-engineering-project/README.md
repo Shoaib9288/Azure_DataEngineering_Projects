@@ -9,6 +9,7 @@
   - [Prerequisites](#prerequisites)
 - [Data Ingestion](#Data-Ingestion)
 - [Data Processing](#Data-Transformation)
+- [Data Analysis](#Data-Analysis)
 
 ## Introduction
 This project provides a data engineering and anlytical journey on the Tokyo Olympic dataset. Starting with a CSV on GitHub, the data is ingested into the Azure ecosystem via Azure Data Factory. It's initially stored in Azure Data Lake Storage Gen2, then transformed in Azure Databricks. The enriched data, once again housed in ADLS Gen2, undergoes advanced analytics in Azure Synapse. The insights are finally visualized in Azure Synapse or Power BI, offering a comprehensive view of the dataset.
@@ -46,8 +47,13 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 ## Data Analysis
 - Analyzing the transformed data using Azure Synapse Analytics & PowerBI tool
 
-1. Using Azure Synapse to find Number of Athletes from each country
+1. Using Azure Synapse to find the Number of Athletes from each country
 <img align="center" width="700" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/Data%20Analytics-1.PNG">
+
+2. Using PowerBI tool to create a visualization report
+<img align="center" width="700" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/PowerBIDashboard.png">
+
+
 
 
 
