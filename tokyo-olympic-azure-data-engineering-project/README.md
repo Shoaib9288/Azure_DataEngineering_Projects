@@ -7,8 +7,8 @@
 - [Dataset Used](#Dataset-Used)
 - [Azure Services Used](#Azure-Services-Used)
   - [Prerequisites](#prerequisites)
-- [Data Ingestion](#data-ingestion)
-- [Data Processing](#data-processing)
+- [Data Ingestion](#Data-Ingestion)
+- [Data Processing](#Data-Transformation)
 
 ## Introduction
 This project provides a data engineering and anlytical journey on the Tokyo Olympic dataset. Starting with a CSV on GitHub, the data is ingested into the Azure ecosystem via Azure Data Factory. It's initially stored in Azure Data Lake Storage Gen2, then transformed in Azure Databricks. The enriched data, once again housed in ADLS Gen2, undergoes advanced analytics in Azure Synapse. The insights are finally visualized in Azure Synapse or Power BI, offering a comprehensive view of the dataset.
@@ -33,9 +33,23 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 - Azure subscription
 - Azure Databricks workspace
 - Azure Data Factory instance
+<img align="center" width="800" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/Resource%20Groups.PNG">
 
 ## Data Ingestion
+- Ingesting the source data using Azure Data Factory(ADF)
+<img align="center" width="800" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/Data%20Ingestion.PNG">
 
 ## Data Transformation
+- Transforming the data using Azure Databricks
+<img align="center" width="800" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/Data%20Transformation-Using-Databricks.gif">
+
+## Data Analysis
+- Analyzing the transformed data using Azure Synapse Analytics & PowerBI tool
+
+1. Using Azure Synapse to find Number of Athletes from each country
+<img align="center" width="700" src="https://github.com/Shoaib9288/Azure_DataEngineering_Projects/blob/main/tokyo-olympic-azure-data-engineering-project/Snapshots/Data%20Analytics-1.PNG">
+
+
+
 
 
